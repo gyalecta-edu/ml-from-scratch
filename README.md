@@ -1,4 +1,4 @@
-# 🤖 ML da Zero – Il mio portfolio di progetti in Machine Learning & AI
+# ML da Zero – Il mio portfolio di progetti in Machine Learning & AI
 
 > Per dimostrare che non serve essere un matematico per fare Intelligenza Artificiale.
 
